@@ -1,0 +1,49 @@
+html, header, body, #intro, #services{
+  height: 100%;
+  width: 100%;
+}
+#intro {
+  height: 100%;
+  width: 100%;
+background-image: url("https://w-dog.net/wallpapers/10/19/346843697827766.jpg");
+background-size: cover;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+filter: brightness(100%);
+}
+.mask {
+  padding-top: 80px;
+}
+.navbar {
+  opacity: 0.7
+}
+#contact .container-fluid .row .col-md-7 form .form-group .form-control {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 60%;
+}
+#services {
+  background-color: #BFDBF7;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter: brightness(100%);
+}
+#projects {
+  background-image: url("");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter: brightness(100%);
+}
+#contact {
+  background-image: url("");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter: brightness(100%);
+}
