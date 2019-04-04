@@ -1,7 +1,9 @@
 html, body, header, #intro{
   height: 100%;
   width: 100%;
-  scroll-behavior: auto;
+  background-color: #BFDBF7;
+  margin: auto;
+  scroll-behavior: smooth;
 }
 #intro {
   height: 100%;
@@ -11,7 +13,6 @@ background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
-filter: brightness(100%);
 }
 .mask {
   padding-top: 80px;
@@ -27,24 +28,12 @@ filter: brightness(100%);
 #services {
   background-color: #BFDBF7;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  filter: brightness(100%);
 }
 #projects {
-  background-color: #BFDBF7;
+ background-color: #BFDBF7;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  filter: brightness(100%);
 }
 #contact {
   background-color: #BFDBF7;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  filter: brightness(100%);
 }
