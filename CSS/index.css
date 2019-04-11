@@ -1,19 +1,19 @@
-html, body, header, #intro{
+html, body, header, #intro {
   height: 100%;
   width: 100%;
-  background-color: #BFDBF7;
   margin: auto;
   scroll-behavior: smooth;
 }
 #intro {
   height: 100%;
   width: 100%;
-background-image: url("https://w-dog.net/wallpapers/10/19/346843697827766.jpg");
-background-size: cover;
+background: url("https://www.switchbacktravel.com/sites/default/files/image_fields/Informational%20Articles/Tips%20for%20Winter%20Photography/Winter%20Photographer%20(skier).jpg");
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
+background-size: cover;
 }
+
 .mask {
   padding-top: 80px;
 }
@@ -22,18 +22,15 @@ background-size: cover;
 }
 #contact .container-fluid .row .col-md-7 form .form-group .form-control {
   border: none;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #fff;
   width: 60%;
 }
 #services {
-  background-color: #BFDBF7;
-  background-size: cover;
+
 }
 #projects {
- background-color: #BFDBF7;
-  background-size: cover;
+
 }
 #contact {
-  background-color: #BFDBF7;
-  background-size: cover;
+
 }
